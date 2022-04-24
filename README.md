@@ -1,16 +1,21 @@
-### Hi there 👋
+### Shalom !!! 🖖 <h1 align="center"> Sou Marcelo Lima </h1>
 
-<!--
-**marcklima/marcklima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<br>
+
+Estudante de Análise de sistemas EAD pela Universidade Paulista    <img src="https://unip.br/assets/img/logo/logo-unip.svg"  width="5%">
+
+Apaixonado por tecnologia, atualmente sou um analista de suporte migrando para a bolha DEV.
+
+☕ Habilidades: Java, HTML, CSS, JavaScript, ReactJS, Cypress, NodeJs, MySql, Boostrap
+
+💼 Ferramentas :<br>
+* ESTRUTURA { Windows,Windows Server, Linux Manjaro, Virtual Box, VMware, pfSense, Mikrotik }<br>
+* SOFTWARE { VS Code, Eclipse, Trello, Discord, Vercel, Git e GitHub }
+
+<hr>
+<img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FBainau_">
+
