@@ -26,10 +26,17 @@ Apaixonado por tecnologia, atualmente sou um analista de suporte migrando para a
 * ESTRUTURA { Windows,Windows Server, Linux Manjaro, Virtual Box, VMware, pfSense, Mikrotik }<br>
 * SOFTWARE { VS Code, Eclipse, Trello, Discord, Vercel, Git e GitHub }
 * EXTENSÕES VSCODE { TABNINE AL CODE COMPLETION FOR ALL MAIOR PROGRAMMING LANGUAGES By TabNine | QUOKKA.JS By Wallaby.js}
+
 📫 Contato: marcklima@gmail.com
+
 
 
 
 <hr>
 <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FBainau_">
+
+
+
+             
+             
 
