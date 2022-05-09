@@ -14,13 +14,13 @@ Apaixonado por tecnologia, atualmente sou um analista de suporte migrando para a
 
 🔭 No momento estou trabalhando como Analista de suporte com Windows Server, pfSene, VMWare, esxi, Linux Mikrotik, Windows...
 
-🌱 Atualmente estou  me aperfeiçoando em Java, JavaScript, MySql, Cypress, HTML, CSS, ReactJS, NodeJs, Boostrap
+🌱 Atualmente estou  me aperfeiçoando em  JavaScript, MySql, Cypress, HTML, CSS, ReactJS, NodeJs, Boostrap
 
 👯 Procuro migrar do suporte para a bolha DEV e seguir na programação.
 
 ☕ Caracteristicas: Comunicativo, disposto à ajudar, aprender e ensinar; Antes procuro entender e não julgar. 
 
-⚡ Fato engraçado sobre mim: Tenho um sinal na ponta do nariz.
+
 
 💼 Ferramentas :<br>
 * ESTRUTURA { Windows,Windows Server, Linux Manjaro, Virtual Box, VMware, pfSense, Mikrotik }<br>
