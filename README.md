@@ -35,7 +35,7 @@ Apaixonado por tecnologia, atualmente sou um analista de suporte migrando para a
 <hr>
 <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FBainau_">
 
-<img alt="Img LinkedinL" src="https://www.linkedin.com/in/marcelolimadonascimento/overlay/background-image/">
+<img alt="Img LinkedinL" src="https://media-exp1.licdn.com/dms/image/C4E16AQGBVTWEjAeTGg/profile-displaybackgroundimage-shrink_350_1400/0/1652458399507?e=1657756800&v=beta&t=6qd6-7HNsXPIHhtWTtIWATjedmJWdZ7gFaCHz4Q72gk">
 
 
 
