@@ -14,7 +14,7 @@ Apaixonado por tecnologia, atualmente sou um analista de suporte migrando para a
 
 🔭 No momento estou trabalhando como Analista de suporte com Windows Server, pfSene, VMWare, esxi, Linux Mikrotik, Windows...
 
-🌱 Atualmente estou  me aperfeiçoando em  Elixir, Phoenix, JavaScript, MySql, Cypress, HTML, CSS, ReactJS, NodeJs, Boostrap
+🌱 Atualmente estou  me aperfeiçoando em  JavaScript, MySql, HTML, CSS, NodeJs, Boostrap
 
 👯 Procuro migrar do suporte para a bolha DEV e seguir na programação.
 
@@ -24,7 +24,7 @@ Apaixonado por tecnologia, atualmente sou um analista de suporte migrando para a
 
 💼 Ferramentas :<br>
 * ESTRUTURA { Windows,Windows Server, Linux Manjaro, Virtual Box, VMware, pfSense, Mikrotik }<br>
-* SOFTWARE { VS Code, Eclipse, Trello, Discord, Vercel, Git e GitHub }
+* SOFTWARE { VS Code, Eclipse, Trello, Discord, Git e GitHub }
 * EXTENSÕES VSCODE { TABNINE AL CODE COMPLETION FOR ALL MAIOR PROGRAMMING LANGUAGES By TabNine | QUOKKA.JS By Wallaby.js}
 
 📫 Contato: marcklima@gmail.com
