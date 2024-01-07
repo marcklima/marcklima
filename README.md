@@ -8,24 +8,8 @@ Seja bem-vindo(a)
 
 <br>
 
-Estudante de Análise de sistemas EAD pela Universidade Paulista    <img src="https://unip.br/assets/img/logo/logo-unip.svg"  width="5%">
-
-Apaixonado por tecnologia, atualmente sou um analista de suporte migrando para a bolha DEV.
-
-🔭 No momento estou trabalhando como Analista de suporte com Windows Server, pfSene, VMWare, esxi, Linux Mikrotik, Windows...
-
-🌱 Atualmente estou  me aperfeiçoando em  JavaScript, MySql, HTML, CSS, NodeJs, Boostrap
-
-👯 Procuro migrar do suporte para a bolha DEV e seguir na programação.
-
-☕ Caracteristicas: Comunicativo, disposto à ajudar, aprender e ensinar; Antes procuro entender e não julgar. 
 
 
-
-💼 Ferramentas :<br>
-* ESTRUTURA { Windows,Windows Server, Linux Manjaro, Virtual Box, VMware, pfSense, Mikrotik }<br>
-* SOFTWARE { VS Code, Eclipse, Trello, Discord, Git e GitHub }
-* EXTENSÕES VSCODE { TABNINE AL CODE COMPLETION FOR ALL MAIOR PROGRAMMING LANGUAGES By TabNine | QUOKKA.JS By Wallaby.js}
 
 📫 Contato: marcklima@gmail.com
 
